@@ -56,4 +56,4 @@ Kris Strong — available via the contact details on my GitHub profile.
 
 ---
 
-*If you’d like, I can also add a short `CONTRIBUTING.md`, or export screenshots and a short slide deck summarizing the report for use in job applications.*
+
